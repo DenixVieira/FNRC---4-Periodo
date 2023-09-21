@@ -11,7 +11,7 @@ class GameState():
         # '--' significa espaço vazio
 
         self.board = [
-            ['bT', 'bC', 'bB', 'bR', 'bK', 'bB', 'bC', 'bT'],
+            ['bT', 'bC', 'bB', 'bK', 'bR', 'bB', 'bC', 'bT'],
             ['bP', 'bP', 'bP', 'bP', 'bP', 'bP', 'bP', 'bP'],
             ['--', '--', '--', '--', '--', '--', '--', '--'],
             ['--', '--', '--', '--', '--', '--', '--', '--'],
